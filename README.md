@@ -1,3 +1,6 @@
+https://frolicking-sorbet-700660.netlify.app/
+
+
 # HTML 101
 
 ## Goal
@@ -54,3 +57,5 @@ Deploy the page to a new Netlify-site.
 Ensure that all HTML is semantic and have a purpose. This lesson is to be cloned and when completed pushed into your git repository.
 
 Validate your pages using the validator: [Nu Html Checker](https://validator.w3.org/nu/)
+
+https://frolicking-sorbet-700660.netlify.app/
