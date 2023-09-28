@@ -1,0 +1,116 @@
+html {
+    font-family: fantasy;
+}
+
+body {
+    background-color: #b5c8fa;
+    padding-top: 40px;
+    margin-top: 40px;
+   
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
+
+ul {
+    text-align: center;
+   
+}
+
+ul li a {
+    text-decoration: none;
+    
+}
+
+.navbutton {
+  background-color: transparent;
+  border: 2px solid #b5c8fa;
+  color: #ffffff;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-family: fantasy;
+  cursor: pointer;
+  transition: background-color 0.3s ease; 
+
+}
+
+.navbutton:hover {
+    background-color: #504d86; 
+  color: white; 
+}
+
+
+
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background-color: #504d86;
+}
+
+.headerDiv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #B2b5ff;
+    align-items: center;
+    
+    
+    
+}
+
+#headerimg{
+    width: 100%;
+    margin: 0;
+    max-height: 100%;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.5); 
+    color: white; 
+    font-family: fantasy;
+  }
+
+  #section1 {
+    position: absolute;
+    top: 50%;
+    
+    
+    
+  }
+
+  .aboutme {
+    text-align: center;
+  }
+
+  .aboutme2 {
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  form {
+    font-size: x-large;
+    text-align: center; 
+    max-width: 900px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    padding-top: 40%;
+    
+  }
+
